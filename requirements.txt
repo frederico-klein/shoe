@@ -1,5 +1,7 @@
+fastapi
 scikit-learn==0.24.2 
 scikit-multilearn==0.2.0
 scipy 
 seaborn 
 torch==1.7.1
+unicorn

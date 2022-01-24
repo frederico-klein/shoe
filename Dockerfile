@@ -9,4 +9,7 @@ USER jovyan
 ENV INSTALL_ON_LINUX=1
 ADD requirements.txt ./ 
 RUN pip install -r requirements.txt
+ADD fast_api_example.py ./
+EXPOSE 8000
+
 
