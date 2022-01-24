@@ -4,4 +4,4 @@ scikit-multilearn==0.2.0
 scipy 
 seaborn 
 torch==1.7.1
-unicorn
+uvicorn
